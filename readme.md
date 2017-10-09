@@ -1,4 +1,6 @@
 # <img src="extension/icon-128.png" width="30"> GitHub Notifier
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgithub-notifier-chrome.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgithub-notifier-chrome?ref=badge_shield)
+
 
 > Chrome/Opera extension - Displays your GitHub notifications unread count
 
@@ -24,3 +26,6 @@ Also available on [Firefox](https://github.com/sindresorhus/github-notifier-fire
 ## License
 
 MIT © [Sindre Sorhus](http://sindresorhus.com)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgithub-notifier-chrome.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgithub-notifier-chrome?ref=badge_large)
